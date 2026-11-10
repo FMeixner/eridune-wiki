@@ -1,5 +1,5 @@
 {
-  "coverage": "Ersteinrichtung + Mythen/Konzepte/Häuser · 50 Seiten",
+  "coverage": "Götter, Fraktionen & Zeitlinie · 61 Seiten",
   "pages": [
     {
       "path": "index",
@@ -363,6 +363,85 @@
         "Haus der zwei Flüsse"
       ],
       "w": 70
+    },
+    {
+      "path": "Log",
+      "title": "Log",
+      "type": "mythus",
+      "w": 65
+    },
+    {
+      "path": "Nyr",
+      "title": "Nyr",
+      "type": "mythus",
+      "aliases": [
+        "Chryss"
+      ],
+      "w": 65
+    },
+    {
+      "path": "Mna",
+      "title": "Mna",
+      "type": "mythus",
+      "aliases": [
+        "Amara",
+        "Amnara",
+        "Mnara",
+        "Mutter von Wiese und Wurzel"
+      ],
+      "w": 60
+    },
+    {
+      "path": "Magokratie",
+      "title": "Magokratie",
+      "type": "konzept",
+      "w": 55
+    },
+    {
+      "path": "Alchemistengilde",
+      "title": "Alchemistengilde",
+      "type": "fraktion",
+      "w": 60
+    },
+    {
+      "path": "Nachtwache",
+      "title": "Nachtwache",
+      "type": "fraktion",
+      "aliases": [
+        "Nachtwächter",
+        "Nightwatcher"
+      ],
+      "w": 45
+    },
+    {
+      "path": "Wurzelzorn",
+      "title": "Wurzelzorn",
+      "type": "fraktion",
+      "w": 45
+    },
+    {
+      "path": "Attentate auf die Kaiserin",
+      "title": "Attentate auf die Kaiserin",
+      "type": "konzept",
+      "w": 55
+    },
+    {
+      "path": "Tod des Kaiserpaars",
+      "title": "Tod des Kaiserpaars",
+      "type": "konzept",
+      "w": 60
+    },
+    {
+      "path": "Wettlauf um Calveris",
+      "title": "Wettlauf um Calveris",
+      "type": "konzept",
+      "w": 65
+    },
+    {
+      "path": "Zeitleiste",
+      "title": "Zeitleiste",
+      "type": "konzept",
+      "w": 50
     }
   ]
 }
