@@ -9,7 +9,7 @@ aktualisiert: 2026-11-09
 - Das erste Dekret der [[Kindkaiserin]] war, dass [[Idron Delarive]] den Posten seines Vaters im [[Kabinett]] einnimmt. Das Gremium wollte dem nicht widersprechen.
 
 ## Struktur
-- Ihr einziger unwidersprochener Wunsch galt ihrem Bruder. Das zeigt, wem ihre Loyalität gehört, und diesen Trumpf hat sie verbraucht.
+- Ihr einziger unwidersprochener Wunsch galt ihrem Beschützer. Das zeigt, wem ihre Loyalität gehört — und dieser Trumpf ist verbraucht.
 - Das Kabinett ließ den Wunsch auch deshalb zu, weil es Idron unterschätzte.
 
 ## Offene Fragen

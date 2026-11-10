@@ -12,7 +12,7 @@ aktualisiert: 2026-11-09
 - Das Kabinett muss seine Entscheidungen von beiden absegnen lassen. Pseudodemokratisch.
 
 ## Struktur
-- Hier wirken die Gerüchte der Kaiserin über ihre Magie: Sie braucht Mehrheiten in Kammern, in denen alle drei Parteien sitzen.
+- In den Kammern, in denen alle drei Parteien sitzen, wirkt auch das Gerüchtegewitter um die Magie der Kaiserin mit.
 - Die Gilden-Ideologen sind in der Gilde eine Minderheit, können in einer Kammer aber Zünglein an der Waage sein.
 
 ## Offene Fragen

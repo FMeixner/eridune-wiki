@@ -14,8 +14,7 @@ aktualisiert: 2026-10-30
 - Trifft erste, überraschend harte Entscheidungen und zeigt sich hoch dominant.
 - Will [[Erbeneid]] und [[Alchemistengilde]] reglementieren, um Recht und Ordnung zurückzubringen.
 - Aktuell muss alles noch durch das [[Kabinett]].
-- Sie und ihre Getreuen streuen gemeinsam mit dem loyalen [[Centraleum]] Gerüchte für oder gegen ihre Magiebegabung, um sich Mehrheiten zu schaffen.
-- Wird damit Ziel von Attentaten → [[Attentate auf die Kaiserin]].
+- Gerüchte über ihre Magiebegabung kursieren in beide Richtungen, gezielt gestreut — von wem, streiten die Klüngel am Hof.
 - Bisher hat sie ein Beschützer abgeschirmt, sie musste sich nie selbst verteidigen → [[Idron Delarive]].
 - Mit jedem Lebensmonat wird sie fähiger, sich selbst zu verteidigen.
 - Sie ist 17. Volljährig und amtswürdig wird sie mit 20, in drei Jahren.
@@ -33,7 +32,7 @@ aktualisiert: 2026-10-30
 - Mit 17 ist ihre beginnende Härte glaubwürdig: keine Kinderlaune mehr, sondern der erste eigene Herrschaftswille einer jungen Frau kurz vor der Amtswürdigkeit.
 
 ## Bruder
-- Ihr Beschützer [[Idron Delarive]] bleibt am Hof, auch wenn er formal kein Blut beansprucht; sie verstößt ihn nicht.
+- Ihr Beschützer [[Idron Delarive]] bleibt am Hof; sie hält ihn nah.
 - Ihr erstes Dekret: Idron erhält den Posten seines Vaters im Kabinett → [[Erstes Dekret]].
 
 ## Spiegel

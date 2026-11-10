@@ -13,7 +13,7 @@ aktualisiert: 2026-10-30
 - Mit 20 braucht die Kaiserin keine Zustimmung mehr, nur noch rhetorische Anerkennung und Beratung.
 - Mitglied: [[Idron Delarive]]. Er nahm den Posten seines Vaters ein, auf direkten Wunsch der Kaiserin → [[Erstes Dekret]].
 - Entscheidungen der [[Kindkaiserin]] müssen aktuell noch durch das Kabinett. Die Regentschaft besteht seit dem [[Tod des Kaiserpaars]] vor sieben Jahren.
-- Deshalb braucht sie Mehrheiten. Sie schafft sie sich unter anderem mit gezielten Gerüchten über ihre Magiebegabung, gemeinsam mit dem [[Centraleum]].
+- Deshalb braucht sie Mehrheiten — im Kabinett wie in den Kammern.
 
 - Vorläufig: Nach der [[Magokratie]] wurde Magie mit Regelungen und antimagischen Kabinettsräumen aus der Politik ferngehalten.
 
@@ -22,8 +22,7 @@ aktualisiert: 2026-10-30
 - **Der gekaufte Sitz.** Über die Kaufehe ist die Gilde bis ins Regentschaftsgremium vorgedrungen. Ihr Fugger-Plan, „quasi adlig“ zu werden, hat die Spitze erreicht.
 - **Macht mit Ablaufdatum.** An ihrem 20. Geburtstag verliert das Kabinett seine Entscheidungsmacht. Jedes Mitglied hat damit einen Grund, die Zeit bis dahin zu nutzen, und manche einen Grund, sie zu verlängern → [[Wettlauf um Calveris]].
 - Die anderen Mitglieder hielten Idron für ignorant und formbar. Jeder von ihnen dachte vermutlich, ihn lenken zu können.
-- Die [[Kindkaiserin]] ist magiebegabt und sitzt in einem antimagischen Raum. Unterdrückt der Raum ihre Magie, ist sie dort schutzlos; verrät er sie, ist er ihre größte Gefahr.
-- Für die heimlichen Mörder ist das Kabinett damit der beste Ort, für die Provokateure der schlechteste → [[Attentate auf die Kaiserin]].
+- Über die Magiebegabung der [[Kindkaiserin]] kursieren Gerüchte in beide Richtungen. In den antimagischen Räumen des Kabinetts kann sich keine Lesart beweisen.
 
 ## Offene Fragen
 - Welche vier großen Häuser sitzen im Kabinett? Gehören [[E-Ushanna]] oder [[Ey-Minid]] dazu?
