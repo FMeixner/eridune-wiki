@@ -15,6 +15,7 @@ aktualisiert: 2026-10-30
 - Will [[Erbeneid]] und [[Alchemistengilde]] reglementieren, um Recht und Ordnung zurückzubringen.
 - Aktuell muss alles noch durch das [[Kabinett]].
 - Gerüchte über ihre Magiebegabung kursieren in beide Richtungen, gezielt gestreut — von wem, streiten die Klüngel am Hof.
+- Wird damit Ziel von Attentaten → [[Attentate auf die Kaiserin]].
 - Bisher hat sie ein Beschützer abgeschirmt, sie musste sich nie selbst verteidigen → [[Idron Delarive]].
 - Mit jedem Lebensmonat wird sie fähiger, sich selbst zu verteidigen.
 - Sie ist 17. Volljährig und amtswürdig wird sie mit 20, in drei Jahren.
