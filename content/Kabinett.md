@@ -1,28 +1,19 @@
 ---
 tags: [eridune, politik]
 wissensebene: volksglaube
-aktualisiert: 2026-10-30
+aktualisiert: 2026-11-10
 ---
 # Kabinett
 
-## Kanon
-- Das Kabinett ist das **Regentschaftsgremium** mit **fünf Mitgliedern**. Solange die Kaiserin nicht volljährig ist, trifft es die Entscheidungen.
-- Darunter gegliedert stehen [[Reichsrat und Unterhaus]], jeweils aus den drei Parteien in unterschiedlichen Anteilen zusammengesetzt.
-- Das Kabinett muss seine Entscheidungen von Reichsrat und Unterhaus absegnen lassen. Pseudodemokratisch.
-- Die anderen vier Mitglieder kommen aus großen Häusern, nicht aus Parteien. Eines dieser Häuser steht durch eine Kaufehe den Alchemisten näher → [[Alte Häuser]].
-- Mit 20 braucht die Kaiserin keine Zustimmung mehr, nur noch rhetorische Anerkennung und Beratung.
-- Mitglied: [[Idron Delarive]]. Er nahm den Posten seines Vaters ein, auf direkten Wunsch der Kaiserin → [[Erstes Dekret]].
-- Entscheidungen der [[Kindkaiserin]] müssen aktuell noch durch das Kabinett. Die Regentschaft besteht seit dem [[Tod des Kaiserpaars]] vor sieben Jahren.
-- Deshalb braucht sie Mehrheiten — im Kabinett wie in den Kammern.
+Das Kabinett ist das **Regentschaftsgremium** mit fünf Mitgliedern. Solange die [[Kindkaiserin]] nicht volljährig ist, trifft es die Entscheidungen — auch ihre müssen derzeit noch durch das Kabinett. Die Regentschaft besteht seit dem [[Tod des Kaiserpaars]] vor sieben Jahren; darum braucht sie Mehrheiten, im Kabinett wie in den Kammern.
 
-- Vorläufig: Nach der [[Magokratie]] wurde Magie mit Regelungen und antimagischen Kabinettsräumen aus der Politik ferngehalten.
+Unter dem Kabinett stehen [[Reichsrat und Unterhaus]], jeweils aus den drei Parteien in unterschiedlichen Anteilen zusammengesetzt. Das Kabinett muss seine Entscheidungen von beiden Kammern absegnen lassen — ein pseudodemokratisches Gefüge, in dem Blut oben und Ideologie unten einander absegnen müssen.
 
-## Struktur
-- **Blut oben, Ideologie unten.** Das Kabinett folgt den großen Häusern, die Kammern den Parteien. Zwei Machtlogiken, die einander absegnen müssen.
-- **Der gekaufte Sitz.** Über die Kaufehe ist die Gilde bis ins Regentschaftsgremium vorgedrungen. Ihr Fugger-Plan, „quasi adlig“ zu werden, hat die Spitze erreicht.
-- **Macht mit Ablaufdatum.** An ihrem 20. Geburtstag verliert das Kabinett seine Entscheidungsmacht. Jedes Mitglied hat damit einen Grund, die Zeit bis dahin zu nutzen, und manche einen Grund, sie zu verlängern → [[Wettlauf um Calveris]].
-- Die anderen Mitglieder hielten Idron für ignorant und formbar. Jeder von ihnen dachte vermutlich, ihn lenken zu können.
-- Über die Magiebegabung der [[Kindkaiserin]] kursieren Gerüchte in beide Richtungen. In den antimagischen Räumen des Kabinetts kann sich keine Lesart beweisen.
+Die anderen vier Mitglieder kommen aus großen Häusern, nicht aus Parteien → [[Alte Häuser]]. Eines dieser Häuser steht durch eine Kaufehe den Alchemisten nahe: Die Gilde ist damit bis ins Regentschaftsgremium vorgedrungen, ihr Plan, „quasi adlig“ zu werden, hat die Spitze erreicht. Mitglied ist ferner [[Idron Delarive]], der den Posten seines Vaters einnahm — auf direkten Wunsch der Kaiserin → [[Erstes Dekret]]. Die anderen Mitglieder hielten ihn für ignorant und formbar; jeder von ihnen dachte vermutlich, ihn lenken zu können.
+
+Nach der [[Magokratie]] wurde Magie mit Regelungen und antimagischen Kabinettsräumen aus der Politik ferngehalten. In diesen Räumen kann sich keine Lesart der Gerüchte um die Magie der Kaiserin beweisen.
+
+Mit 20 braucht die Kaiserin keine Zustimmung mehr, nur noch rhetorische Anerkennung und Beratung. An ihrem 20. Geburtstag verliert das Kabinett seine Entscheidungsmacht: Jedes Mitglied hat einen Grund, die Zeit bis dahin zu nutzen, und manche einen Grund, sie zu verlängern → [[Wettlauf um Calveris]].
 
 ## Offene Fragen
 - Welche vier großen Häuser sitzen im Kabinett? Gehören [[E-Ushanna]] oder [[Ey-Minid]] dazu?

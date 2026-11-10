@@ -1,16 +1,13 @@
 ---
 tags: [eridune, person]
 aliases: [Seraph]
-aktualisiert: 2026-11-09
+aktualisiert: 2026-11-10
 ---
 # Seraph von Illfors
 
-## Kanon
-- Gibt sich als direkt von den Göttern gesandt aus und hat die Führung der [[Nachtwache]] am [[Illfors]] übernommen.
+Ein Seraph, der sich als direkt von den Göttern gesandt ausgibt, hat die Führung der [[Nachtwache]] am [[Illfors]] übernommen.
 
-## Struktur
-- Seine Behauptung widerspricht der Kosmologie: Die Götter sind Prinzipien, sie senden niemanden. Nyr will so gesehen nichts → [[Hallows und Thron]]. Wer das weiß, erkennt ihn als Scharlatan.
-- Nordland-Krise: Der Sturm aus dem Norden von [[Ey-Minid]] ist sein Material.
+Seine Behauptung widerspricht der Kosmologie: Die Götter sind Prinzipien, sie senden niemanden; [[Nyr]] will so gesehen nichts → [[Hallows und Thron]]. Wer das weiß, erkennt ihn als Scharlatan. Und die Krise des Nordens ist sein Material: Der Sturm aus dem Norden von [[Ey-Minid]] spielt ihm in die Hände.
 
 ## Offene Fragen
 - Wer steckt hinter ihm?

@@ -1,3 +1,7 @@
-Erste und aktuell einzige Eisenbahn-Linie durch [[Eridune|Eridune]]
+---
+tags: [eridune, verkehr]
+aktualisiert: 2026-11-10
+---
+# Eridune-1
 
-Verbindet [[Calveris|Calveris]] mit den diversen [[Eidenflux|Eidenflux]]-Förderstätten
+Die Eridune-1 ist die erste und derzeit einzige Eisenbahnlinie des Kontinents [[Eridune]]. Sie verbindet [[Calveris]] mit den diversen [[Eidenflux]]-Förderstätten — die Schienen der Fluxbahn halten die Wirtschaft der Hauptstadt in Bewegung.

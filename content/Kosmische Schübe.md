@@ -2,17 +2,15 @@
 tags: [eridune, kosmologie]
 aliases: [Schübe, Astral Realms, elementare Ebene]
 wissensebene: volksglaube
-aktualisiert: 2026-10-30
+aktualisiert: 2026-11-10
 ---
 # Kosmische Schübe
 
-## Kanon
-- Schübe gab es tatsächlich: In bestimmten Äonen und kosmischen Konstellationen kamen Dinge aus der elementaren Ebene nach Eridune, etwa der Regen, die fruchtbare Erde und bestimmte Rassen.
-- Die Elemente und die meisten Rassen kamen während der [[Schöpfung]]. Aufzeichnungen oder Erinnerungen gibt es keine, höchstens Überlieferung.
-- Bei einem Schub wurde die Barriere zwischen den Ebenen dünn. [[Faune]] und [[Feen]] kamen damals über gezielte Portale und Völkerwanderungen aus ihren Realms oder flohen von dort.
-- In früheren Zeiten war der Eintritt von Faunen und Feen das, was es brauchte, um Ordnung und Balance herzustellen → [[Hallows und Thron]].
-- Die [[Alchemistengilde]] reiht den [[Eidenflux]] als weiteren Schub aus den Astral Realms ein.
-- Der [[Erbeneid]] erkennt die Schübe an und bestreitet nur, dass Flux in diese Reihe gehört.
+Schübe gab es tatsächlich: In bestimmten Äonen und kosmischen Konstellationen kamen Dinge aus der elementaren Ebene nach Eridune — etwa der Regen, die fruchtbare Erde und bestimmte Rassen. Die Elemente und die meisten Rassen kamen während der [[Schöpfung]]; Aufzeichnungen oder Erinnerungen gibt es keine, höchstens Überlieferung.
+
+Bei einem Schub wurde die Barriere zwischen den Ebenen dünn. [[Faune]] und [[Feen]] kamen damals über gezielte Portale und Völkerwanderungen aus ihren Realms oder flohen von dort. In früheren Zeiten war ihr Eintritt das, was es brauchte, um Ordnung und Balance herzustellen → [[Hallows und Thron]].
+
+Die [[Alchemistengilde]] reiht den [[Eidenflux]] als weiteren Schub aus den Astral Realms ein; der [[Erbeneid]] erkennt die Schübe an und bestreitet nur, dass Flux in diese Reihe gehört → [[Herkunft des Flux]].
 
 ## Offene Fragen
 - Wie trat ein Schub auf, und worin unterschied sich das Auftreten des Flux?

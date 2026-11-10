@@ -1,14 +1,11 @@
 ---
 tags: [eridune, mythos]
 wissensebene: volksglaube
-aktualisiert: 2026-10-30
+aktualisiert: 2026-11-10
 ---
 # Nyrs Raub
 
-## Kanon
-- In der Vorzeit stahl [[Nyr]] ihrem Onkel [[Log]] ein wenig Stillstand und Ordnung, um Zeit und Kontrolle zu werden.
-- Magie gilt als kontrolliertes Chaos → [[Magie]].
-- Volksglaube: Log neidet Nyr diesen Raub → [[Magie auf dem Thron]].
+In der Vorzeit stahl [[Nyr]] ihrem Onkel [[Log]] ein wenig Stillstand und Ordnung, um Zeit und Kontrolle zu werden. Magie gilt seither als kontrolliertes Chaos → [[Magie]]. Im Volksglauben neidet Log Nyr diesen Raub bis heute → [[Magie auf dem Thron]].
 
 ## Offene Fragen
 - Ist die angeborene Magie in Eridune das Erbe dieses Raubs?

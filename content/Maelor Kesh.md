@@ -2,14 +2,13 @@
 tags: [eridune, person]
 aliases: [Kesh]
 fraktion:
-aktualisiert: 2026-11-09
+aktualisiert: 2026-11-10
 ---
 # Maelor Kesh
 
-## Kanon
-- Charismatischer, moralisch ambivalenter Aufständischer und Auftraggeber. Nicht ganz transparent; nutzt Gefallen als Hebel.
-- Deutlich gemäßigter als [[Corvin Aschgrau]], mit einer klaren politischen Agenda.
-- Seine Leute verübten den Anschlag auf die Schleiergrube, um etwas zu beweisen; [[Eliané]] haute die Helden dabei heraus → [[Die Fluxmine]].
+Charismatischer, moralisch ambivalenter Aufständischer und Auftraggeber; nicht ganz transparent, er nutzt Gefallen als Hebel. Er ist deutlich gemäßigter als [[Corvin Aschgrau]] und verfolgt eine klare politische Agenda.
+
+Seine Leute verübten den Anschlag auf die Schleiergrube, um etwas zu beweisen; [[Eliané]] haute die Helden dabei heraus.
 
 ## Offene Fragen
 - Ist Kesh der Laternenmann, unter dessen Banner sich alte Kolonisten sammeln?

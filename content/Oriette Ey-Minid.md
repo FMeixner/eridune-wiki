@@ -3,30 +3,15 @@ tags: [eridune, person]
 aliases: [Oriette]
 haus: Ey-Minid
 fraktion:
-aktualisiert: 2026-11-06
+aktualisiert: 2026-11-10
 ---
 # Oriette Ey-Minid
 
-## Kanon
-- Hält in [[Ey-Minid]] die Fäden.
-- Mutter des verstorbenen [[Erster Kaiser-Gemahl|ersten Kaiser-Gemahls]], Großmutter der [[Kindkaiserin]].
-- Hält daran fest, dass ihr Sohn verstorben ist und in den Tod geschickt wurde.
-- Macht dafür die Regentschaft verantwortlich, also alle, die die Kaiserin beraten und die Entscheidungen für sie treffen → [[Idron Delarive]].
+Oriette hält in [[Ey-Minid]] die Fäden. Sie ist die Mutter des verstorbenen [[Erster Kaiser-Gemahl|ersten Kaiser-Gemahls]] und Großmutter der [[Kindkaiserin]].
 
-## Struktur
-- **Ein Gesicht für den Vorwurf.** Ihr Hass auf die Regentschaft hat in ihm ein Gesicht, und er ist persönlich.
-- **Tragische Ironie.** Sie führt einen Krieg für einen Toten; ihre Trauer ist echt.
-- Sie führt ein Haus, das traditionell nicht kriegerisch, sondern wirtschaftsorientiert ist, in einen Krieg. Ihr Antrieb ist damit stärker als die Tradition ihres Hauses.
-- Ihr Sohn kam aus einem Scharmützel nicht zurück, die Umstände sind mysteriös. Ein Verlust ohne Gewissheit hält Trauer offen: Boss (1999) beschreibt das als *ambiguous loss*, einen Verlust, der sich nicht abschließen lässt.
+Sie hält daran fest, dass ihr Sohn verstorben ist und in den Tod geschickt wurde, und macht dafür die Regentschaft verantwortlich — alle, die die Kaiserin beraten und die Entscheidungen für sie treffen, mit [[Idron Delarive]] als Gesicht für den Vorwurf. Ihr Hass ist damit persönlich geworden; die tragische Ironie: Sie führt einen Krieg für einen Toten, und ihre Trauer ist echt. Ihr Sohn kam aus einem Scharmützel nicht zurück, die Umstände sind mysteriös — ein Verlust ohne Gewissheit hält Trauer offen; Boss (1999) beschreibt das als *ambiguous loss*, einen Verlust, der sich nicht abschließen lässt.
 
-## Hebel
-- Hat in der Hand: das Korn des Nordens; Banner und Heere
-
-## Verbindungen
-- [[Erster Kaiser-Gemahl]]: Sohn
-- [[Kindkaiserin]]: Enkelin
-- [[Idron Delarive]]: beschuldigt ihn als Teil der Regentschaft
-- Zweitgeborener Sohn: soll mit der Kaiserin vermählt werden
+Sie führt ein Haus, das traditionell nicht kriegerisch, sondern wirtschaftsorientiert ist, in einen Krieg; ihr Antrieb ist damit stärker als die Tradition ihres Hauses. In der Hand hat sie das Korn des Nordens und Banner und Heere. Ihr zweitgeborener Sohn soll mit der [[Kindkaiserin]] vermählt werden.
 
 ## Offene Fragen
 - Wer im Haus widerspricht ihr offen, und wer heimlich?

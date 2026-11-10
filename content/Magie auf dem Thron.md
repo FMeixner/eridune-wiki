@@ -1,15 +1,13 @@
 ---
 tags: [eridune, mythos, geschichte]
 wissensebene: volksglaube
-aktualisiert: 2026-10-30
+aktualisiert: 2026-11-10
 ---
 # Magie auf dem Thron
 
-## Kanon
-- Magische Macht auf dem Kaiserthron führte immer wieder zu großen Katastrophen; die Häufung ist in der Geschichte beobachtbar.
-- Aberglaube: [[Log]] neidet [[Nyr]] den [[Nyrs Raub|Raub aus der Vorzeit]] und straft magische Machtkonzentration auf seinem Leib mit Naturkatastrophen und erstarkenden kriegerischen Ambitionen in „seinen“ Völkern.
-- Nüchterne Alternative: Viel Macht lädt einfach viel Herausforderung ein; die Verbindung ist womöglich weniger mystisch, als man glaubt.
-- Bewusst mehrdeutig: etwas von beidem.
+Magische Macht auf dem Kaiserthron führte immer wieder zu großen Katastrophen; die Häufung ist in der Geschichte beobachtbar. Dafür gibt es zwei Lesarten, und Eridune hält sich bewusst beide offen: etwas von beidem.
+
+Der Aberglaube sagt: [[Log]] neidet [[Nyr]] den [[Nyrs Raub|Raub aus der Vorzeit]] und straft magische Machtkonzentration auf seinem Leib mit Naturkatastrophen und erstarkenden kriegerischen Ambitionen in „seinen“ Völkern. Die nüchterne Alternative: Viel Macht lädt einfach viel Herausforderung ein; die Verbindung ist womöglich weniger mystisch, als man glaubt.
 
 ## Offene Fragen
 - Welche Indizien stützen die Mythos-Lesart, welche die nüchterne?

@@ -1,3 +1,7 @@
-Siedlung im Nordosten von calveris
+---
+tags: [eridune, ort]
+aktualisiert: 2026-11-10
+---
+# Reisend
 
-Hohe Dichte von Infernis
+Reisend ist eine Siedlung im Nordosten von [[Calveris]]. Auffällig ist die hohe Dichte an [[Infernis]] unter seinen Bewohnern.

@@ -2,14 +2,13 @@
 tags: [eridune, person]
 aliases: [Aschgrau]
 fraktion: Wurzelzorn
-aktualisiert: 2026-11-09
+aktualisiert: 2026-11-10
 ---
 # Corvin Aschgrau
 
-## Kanon
-- Anführer des [[Wurzelzorn]], der gewaltbereiten, radikalen Splittergruppe.
-- Eindeutig ein Extremist; deutlich radikaler als [[Maelor Kesh]], der als gemäßigter Gegenpol gilt.
-- Die Helden befreiten ihn einst aus der Gefangenschaft; erst spät enthüllte sich, dass er den Wurzelzorn führt.
+Anführer des [[Wurzelzorn]], der gewaltbereiten, radikalen Splittergruppe des [[Erbeneid]]. Er ist eindeutig ein Extremist; deutlich radikaler als [[Maelor Kesh]], der als gemäßigter Gegenpol gilt.
+
+Die Helden befreiten ihn einst aus der Gefangenschaft; erst spät enthüllte sich, dass er den Wurzelzorn führt.
 
 ## Offene Fragen
 - Was verbindet ihn mit Kesh, und wo trennen sie sich?

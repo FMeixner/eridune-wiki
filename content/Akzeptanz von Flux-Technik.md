@@ -1,25 +1,15 @@
 ---
 tags: [eridune, konzept, gesellschaft]
 wissensebene: volksglaube
-aktualisiert: 2026-10-30
+aktualisiert: 2026-11-10
 ---
 # Akzeptanz von Flux-Technik
 
-## Kanon
-- Wo die Grenze verläuft, ist nicht allgemein beantwortbar.
-- Fluxbetriebene Prothesen: Manche finden sie in Ordnung, andere sind Puristen.
-- Hardliner lehnen sogar fluxbetriebene Heizungen ab.
-- Generell ist die Mehrheit skeptisch, wenn Flux nicht nur an, sondern in den Körper kommen könnte.
-- Niemand isst Flux direkt. Skeptisch sind einige, wenn Lebensmittel mit Fluxtechnik geerntet, gekocht oder verarbeitet werden. Ackerbau und Nahrungsmittelerzeugung per Fluxtechnik sind deshalb hoch umstritten.
-- Die meisten wollen daheim natürlich essen.
-- Purismus können sich nur die Reichen leisten: reiche Alchemisten und [[Alte Häuser]] mit Geld.
-- Reiche Alchemisten würden öffentlich demonstrativ in ihr „Produkt“ beißen, um zu zeigen, dass es harmlos ist → [[Alchemistengilde]].
+Wo die Grenze der Akzeptanz verläuft, ist nicht allgemein beantwortbar. Fluxbetriebene Prothesen finden manche in Ordnung, andere sind Puristen; Hardliner lehnen sogar fluxbetriebene Heizungen ab. Generell ist die Mehrheit skeptisch, sobald Flux nicht nur an, sondern in den Körper kommen könnte.
 
-## Struktur
-- Gefälle der Akzeptanz: Technik im Umfeld (Heizung) → am Körper (Prothese) → über die Nahrung in den Körper.
-- Die Schwelle „in den Körper“ folgt der Logik von Ekel und Kontamination (Rozin & Fallon, 1987): Was man isst, wird Teil von einem.
-- Natürliches Essen ist ein Statusmarker. Ausgerechnet die, die Flux verkaufen, leben daheim puristisch.
-- Die [[Infernis]] sind der Fall, in dem Flux ganz im Körper angekommen ist — und vielen gerade deshalb unheimlich.
+Niemand isst Flux direkt. Skeptisch sind viele, wenn Lebensmittel mit Fluxtechnik geerntet, gekocht oder verarbeitet werden; Ackerbau und Nahrungsmittelerzeugung per Fluxtechnik sind hoch umstritten, und die meisten wollen daheim natürlich essen. Purismus können sich nur die Reichen leisten — reiche Alchemisten und [[Alte Häuser]] mit Geld. Reiche Alchemisten würden öffentlich demonstrativ in ihr „Produkt“ beißen, um Harmlosigkeit zu zeigen → [[Alchemistengilde]].
+
+Die Akzeptanz fällt also in einem Gefälle: Technik im Umfeld (Heizung), am Körper (Prothese), über die Nahrung in den Körper. Die Schwelle „in den Körper“ folgt der Logik von Ekel und Kontamination (Rozin & Fallon, 1987): Was man isst, wird Teil von einem. Natürliches Essen ist ein Statusmarker — ausgerechnet die, die Flux verkaufen, leben daheim puristisch. Die [[Infernis]] sind der Fall, in dem Flux ganz im Körper angekommen ist — und vielen gerade deshalb unheimlich.
 
 ## Offene Fragen
 - Was essen die, die sich keinen Purismus leisten können, und wie denken sie darüber? Das Korn-Embargo von [[Ey-Minid]] macht Flux-Landwirtschaft für die Stadt immer unverzichtbarer.
