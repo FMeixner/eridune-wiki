@@ -277,6 +277,7 @@ details.session-card[open] .session-chev { transform: rotate(180deg); color: var
     ort: svg('<path d="M12 21s-6.5-5.5-6.5-10.5a6.5 6.5 0 0 1 13 0C18.5 15.5 12 21 12 21z"/><circle cx="12" cy="10" r="2.3"/>'),
     artefakt: svg('<path d="M7 4h10l4 5-9 11L3 9z"/><path d="M3 9h18M7 4l5 16L17 4"/>', 15),
     fraktion: svg('<path d="M6 3v18M6 4h11l-2.5 3.5L17 11H6"/>'),
+    haus: svg('<path d="M12 3l7 2v6c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V5z"/><path d="M5.5 10.5h13"/>', 15),
     kreatur: svg('<circle cx="12" cy="15" r="3.4"/><circle cx="6.5" cy="10.5" r="1.7"/><circle cx="12" cy="8.5" r="1.7"/><circle cx="17.5" cy="10.5" r="1.7"/>'),
     tier: svg('<ellipse cx="12" cy="16" rx="3.4" ry="2.8"/><circle cx="6.6" cy="10.8" r="1.5"/><circle cx="12" cy="9.4" r="1.5"/><circle cx="17.4" cy="10.8" r="1.5"/>'),
     fortschritt: svg('<path d="M7 3h9a2 2 0 0 1 2 2v16l-3-2-3 2V5a2 2 0 0 0-2-2z"/><path d="M7 3a2 2 0 0 0-2 2v2"/>', 15),
@@ -292,7 +293,7 @@ details.session-card[open] .session-chev { transform: rotate(180deg); color: var
   };
   var TYPE_LABELS = {
     uebersicht: "Übersicht", timeline: "Timeline", held: "Held", person: "Person",
-    ort: "Ort", artefakt: "Artefakt", fraktion: "Fraktion", kreatur: "Kreatur", tier: "Tier", fortschritt: "Vermerk",
+    ort: "Ort", artefakt: "Artefakt", fraktion: "Fraktion", haus: "Haus", kreatur: "Kreatur", tier: "Tier", fortschritt: "Vermerk",
     konzept: "Konzept", verkehr: "Verkehrsweg", mythus: "Mythos", volk: "Volk", sprache: "Sprache",
     sl_werkzeug: "SL-Werkzeug", vorlage: "Vorlage", spielercharakter: "Spielercharakter"
   };
@@ -453,6 +454,7 @@ details.session-card[open] .session-chev { transform: rotate(180deg); color: var
       { label: "Orte", open: true, items: byType("ort").filter(function (p) { return p.path !== "Eridune"; }) },
       { label: "Spielercharaktere", open: true, items: byType("spielercharakter") },
       { label: "Personen", open: true, items: byType("person") },
+      { label: "Häuser", open: true, items: byType("haus") },
       { label: "Völker", open: true, items: byType("volk") },
       { label: "Fraktionen", open: true, items: byType("fraktion") },
       { label: "Konzepte", open: true, items: byType("konzept") },

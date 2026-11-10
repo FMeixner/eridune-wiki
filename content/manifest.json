@@ -1,38 +1,368 @@
 {
-  "coverage": "Ersteinrichtung · 33 Seiten",
+  "coverage": "Ersteinrichtung + Mythen/Konzepte/Häuser · 50 Seiten",
   "pages": [
-    { "path": "index", "title": "Start", "type": "uebersicht", "w": 95 },
-    { "path": "Eridune", "title": "Eridune", "type": "uebersicht", "w": 100 },
-    { "path": "Calveris", "title": "Calveris", "type": "ort", "aliases": ["Hauptstadt"], "w": 80 },
-    { "path": "Illfors", "title": "Illfors", "type": "ort", "aliases": ["Festung Illfors", "Illfors-Fluss", "Ilfors"], "w": 70 },
-    { "path": "Reisend", "title": "Reisend", "type": "ort" },
-    { "path": "Schlachthausviertel", "title": "Schlachthausviertel", "type": "ort" },
-    { "path": "Haken und Kerbe", "title": "Haken und Kerbe", "type": "ort" },
-    { "path": "Die Schatten", "title": "Die Schatten", "type": "ort" },
-    { "path": "Eridune-1", "title": "Eridune-1", "type": "verkehr", "aliases": ["Fluxbahn"], "w": 55 },
-    { "path": "Barum Schildhand", "title": "Barum Schildhand", "type": "spielercharakter" },
-    { "path": "Indigo Ross", "title": "Indigo Ross", "type": "spielercharakter" },
-    { "path": "Kindkaiserin", "title": "Kindkaiserin", "type": "person", "w": 75 },
-    { "path": "Idron Delarive", "title": "Idron Delarive", "type": "person", "aliases": ["Beschützer der Kaiserin", "Protector", "Lord Protector", "Idron"], "w": 70 },
-    { "path": "Corentin E-Ushanna", "title": "Corentin E-Ushanna", "type": "person" },
-    { "path": "Ama-Ushki E-Ushanna", "title": "Ama-Ushki E-Ushanna", "type": "person", "aliases": ["Ama-Ushki", "Ama Ushki", "Amaushki"] },
-    { "path": "Oriette Ey-Minid", "title": "Oriette Ey-Minid", "type": "person", "aliases": ["Oriette"] },
-    { "path": "Erster Kaiser-Gemahl", "title": "Erster Kaiser-Gemahl", "type": "person" },
-    { "path": "Kaiser-Gemahl", "title": "Kaiser-Gemahl", "type": "person" },
-    { "path": "Etienne Sarn", "title": "Etienne Sarn", "type": "person", "aliases": ["Sarn"], "w": 65 },
-    { "path": "Maelor Kesh", "title": "Maelor Kesh", "type": "person", "aliases": ["Kesh"] },
-    { "path": "Corvin Aschgrau", "title": "Corvin Aschgrau", "type": "person", "aliases": ["Aschgrau"] },
-    { "path": "Seraph von Illfors", "title": "Seraph von Illfors", "type": "person", "aliases": ["Seraph"] },
-    { "path": "Eliané", "title": "Eliané", "type": "person" },
-    { "path": "Kabinett", "title": "Kabinett", "type": "fraktion", "w": 60 },
-    { "path": "Reichsrat und Unterhaus", "title": "Reichsrat und Unterhaus", "type": "fraktion", "aliases": ["Reichsrat", "Unterhaus"] },
-    { "path": "Centraleum", "title": "Centraleum", "type": "fraktion", "w": 60 },
-    { "path": "Erbeneid", "title": "Erbeneid", "type": "fraktion", "w": 60 },
-    { "path": "Eidenflux", "title": "Eidenflux", "type": "konzept", "aliases": ["Flux"], "w": 72 },
-    { "path": "Erstes Dekret", "title": "Erstes Dekret", "type": "konzept" },
-    { "path": "CES 0.1", "title": "CES 0.1", "type": "artefakt" },
-    { "path": "CES 0.2", "title": "CES 0.2", "type": "artefakt" },
-    { "path": "Vorlage Haus", "title": "Vorlage Haus", "type": "vorlage" },
-    { "path": "Vorlage NPC", "title": "Vorlage NPC", "type": "vorlage" }
+    {
+      "path": "index",
+      "title": "Start",
+      "type": "uebersicht",
+      "w": 95
+    },
+    {
+      "path": "Eridune",
+      "title": "Eridune",
+      "type": "uebersicht",
+      "w": 100
+    },
+    {
+      "path": "Calveris",
+      "title": "Calveris",
+      "type": "ort",
+      "aliases": [
+        "Hauptstadt"
+      ],
+      "w": 80
+    },
+    {
+      "path": "Illfors",
+      "title": "Illfors",
+      "type": "ort",
+      "aliases": [
+        "Festung Illfors",
+        "Illfors-Fluss",
+        "Ilfors"
+      ],
+      "w": 70
+    },
+    {
+      "path": "Reisend",
+      "title": "Reisend",
+      "type": "ort"
+    },
+    {
+      "path": "Schlachthausviertel",
+      "title": "Schlachthausviertel",
+      "type": "ort"
+    },
+    {
+      "path": "Haken und Kerbe",
+      "title": "Haken und Kerbe",
+      "type": "ort"
+    },
+    {
+      "path": "Die Schatten",
+      "title": "Die Schatten",
+      "type": "ort"
+    },
+    {
+      "path": "Eridune-1",
+      "title": "Eridune-1",
+      "type": "verkehr",
+      "aliases": [
+        "Fluxbahn"
+      ],
+      "w": 55
+    },
+    {
+      "path": "Barum Schildhand",
+      "title": "Barum Schildhand",
+      "type": "spielercharakter"
+    },
+    {
+      "path": "Indigo Ross",
+      "title": "Indigo Ross",
+      "type": "spielercharakter"
+    },
+    {
+      "path": "Kindkaiserin",
+      "title": "Kindkaiserin",
+      "type": "person",
+      "w": 75
+    },
+    {
+      "path": "Idron Delarive",
+      "title": "Idron Delarive",
+      "type": "person",
+      "aliases": [
+        "Beschützer der Kaiserin",
+        "Protector",
+        "Lord Protector",
+        "Idron"
+      ],
+      "w": 70
+    },
+    {
+      "path": "Corentin E-Ushanna",
+      "title": "Corentin E-Ushanna",
+      "type": "person"
+    },
+    {
+      "path": "Ama-Ushki E-Ushanna",
+      "title": "Ama-Ushki E-Ushanna",
+      "type": "person",
+      "aliases": [
+        "Ama-Ushki",
+        "Ama Ushki",
+        "Amaushki"
+      ]
+    },
+    {
+      "path": "Oriette Ey-Minid",
+      "title": "Oriette Ey-Minid",
+      "type": "person",
+      "aliases": [
+        "Oriette"
+      ]
+    },
+    {
+      "path": "Erster Kaiser-Gemahl",
+      "title": "Erster Kaiser-Gemahl",
+      "type": "person"
+    },
+    {
+      "path": "Kaiser-Gemahl",
+      "title": "Kaiser-Gemahl",
+      "type": "person"
+    },
+    {
+      "path": "Etienne Sarn",
+      "title": "Etienne Sarn",
+      "type": "person",
+      "aliases": [
+        "Sarn"
+      ],
+      "w": 65
+    },
+    {
+      "path": "Maelor Kesh",
+      "title": "Maelor Kesh",
+      "type": "person",
+      "aliases": [
+        "Kesh"
+      ]
+    },
+    {
+      "path": "Corvin Aschgrau",
+      "title": "Corvin Aschgrau",
+      "type": "person",
+      "aliases": [
+        "Aschgrau"
+      ]
+    },
+    {
+      "path": "Seraph von Illfors",
+      "title": "Seraph von Illfors",
+      "type": "person",
+      "aliases": [
+        "Seraph"
+      ]
+    },
+    {
+      "path": "Eliané",
+      "title": "Eliané",
+      "type": "person"
+    },
+    {
+      "path": "Kabinett",
+      "title": "Kabinett",
+      "type": "fraktion",
+      "w": 60
+    },
+    {
+      "path": "Reichsrat und Unterhaus",
+      "title": "Reichsrat und Unterhaus",
+      "type": "fraktion",
+      "aliases": [
+        "Reichsrat",
+        "Unterhaus"
+      ]
+    },
+    {
+      "path": "Centraleum",
+      "title": "Centraleum",
+      "type": "fraktion",
+      "w": 60
+    },
+    {
+      "path": "Erbeneid",
+      "title": "Erbeneid",
+      "type": "fraktion",
+      "w": 60
+    },
+    {
+      "path": "Eidenflux",
+      "title": "Eidenflux",
+      "type": "konzept",
+      "aliases": [
+        "Flux"
+      ],
+      "w": 72
+    },
+    {
+      "path": "Erstes Dekret",
+      "title": "Erstes Dekret",
+      "type": "konzept"
+    },
+    {
+      "path": "CES 0.1",
+      "title": "CES 0.1",
+      "type": "artefakt"
+    },
+    {
+      "path": "CES 0.2",
+      "title": "CES 0.2",
+      "type": "artefakt"
+    },
+    {
+      "path": "Vorlage Haus",
+      "title": "Vorlage Haus",
+      "type": "vorlage"
+    },
+    {
+      "path": "Vorlage NPC",
+      "title": "Vorlage NPC",
+      "type": "vorlage"
+    },
+    {
+      "path": "Schöpfung",
+      "title": "Schöpfung",
+      "type": "mythus",
+      "aliases": [
+        "Schöpfungsgeschichte"
+      ],
+      "w": 60
+    },
+    {
+      "path": "Nyrs Raub",
+      "title": "Nyrs Raub",
+      "type": "mythus",
+      "w": 55
+    },
+    {
+      "path": "Hallows und Thron",
+      "title": "Hallows Above und der Thron",
+      "type": "mythus",
+      "aliases": [
+        "Nyrs Ordnung",
+        "Patronage der Kaiserfamilie"
+      ],
+      "w": 65
+    },
+    {
+      "path": "Magie auf dem Thron",
+      "title": "Magie auf dem Thron",
+      "type": "mythus",
+      "w": 60
+    },
+    {
+      "path": "Ebenen",
+      "title": "Ebenen",
+      "type": "mythus",
+      "aliases": [
+        "Realms",
+        "Core Realms",
+        "Realms below"
+      ],
+      "w": 55
+    },
+    {
+      "path": "Kosmische Schübe",
+      "title": "Kosmische Schübe",
+      "type": "mythus",
+      "aliases": [
+        "Schübe",
+        "Astral Realms",
+        "elementare Ebene"
+      ],
+      "w": 55
+    },
+    {
+      "path": "Ahnengeister",
+      "title": "Ahnengeister",
+      "type": "konzept",
+      "w": 40
+    },
+    {
+      "path": "Akzeptanz von Flux-Technik",
+      "title": "Akzeptanz von Flux-Technik",
+      "type": "konzept",
+      "w": 50
+    },
+    {
+      "path": "Flux und Magie",
+      "title": "Flux und Magie",
+      "type": "konzept",
+      "w": 65
+    },
+    {
+      "path": "Flux-Schwelle",
+      "title": "Flux-Schwelle",
+      "type": "konzept",
+      "aliases": [
+        "Fluxgolem"
+      ],
+      "w": 60
+    },
+    {
+      "path": "Herkunft des Flux",
+      "title": "Herkunft des Flux",
+      "type": "konzept",
+      "w": 60
+    },
+    {
+      "path": "Magie",
+      "title": "Magie",
+      "type": "konzept",
+      "aliases": [
+        "Spark",
+        "angeborene Magie"
+      ],
+      "w": 60
+    },
+    {
+      "path": "Magische Reifung",
+      "title": "Magische Reifung",
+      "type": "konzept",
+      "aliases": [
+        "Magische Pubertät",
+        "Zwanzig"
+      ],
+      "w": 60
+    },
+    {
+      "path": "Alte Häuser",
+      "title": "Alte Häuser",
+      "type": "haus",
+      "w": 60
+    },
+    {
+      "path": "E-Ushanna",
+      "title": "E-Ushanna",
+      "type": "haus",
+      "aliases": [
+        "Ushanna",
+        "Vasall des Todes"
+      ],
+      "w": 65
+    },
+    {
+      "path": "Kaiserhaus",
+      "title": "Kaiserhaus",
+      "type": "haus",
+      "aliases": [
+        "Kaiserlinie"
+      ],
+      "w": 70
+    },
+    {
+      "path": "Ey-Minid",
+      "title": "Ey-Minid",
+      "type": "haus",
+      "aliases": [
+        "Ea-Minid",
+        "Minid",
+        "Haus der zwei Flüsse"
+      ],
+      "w": 70
+    }
   ]
 }
