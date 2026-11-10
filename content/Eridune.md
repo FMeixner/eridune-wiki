@@ -23,7 +23,3 @@ Die Gelehrten beschreiben die Welt als **Cosmologie triplanaire**: drei überlap
 
 ## Der Flux
 Vor rund siebzig Jahren gelangte der [[Eidenflux]] in die Welt. Er wärmt die Häuser, treibt die Bahnen an — und wo er sich sammelt, mutieren Tiere, und Gerüchte sprechen davon, dass seltener Kinder mit Gaben geboren werden. Woher der Flux kommt, streiten die Fraktionen.
-
-## Handlung
-- [[Attentate auf die Kaiserin]]
-- [[Kampagnenfinale]]
