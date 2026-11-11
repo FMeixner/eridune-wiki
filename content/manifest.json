@@ -1,5 +1,5 @@
 {
-  "coverage": "Götter, Fraktionen & Zeitlinie · 61 Seiten",
+  "coverage": "Kosmologie, Götter, Fraktionen & Orte · 62 Seiten",
   "pages": [
     {
       "path": "index",
@@ -210,7 +210,7 @@
     {
       "path": "CES 0.2",
       "title": "CES 0.2",
-      "type": "artefakt"
+      "type": "spielercharakter"
     },
     {
       "path": "Vorlage Haus",
@@ -274,6 +274,16 @@
         "elementare Ebene"
       ],
       "w": 55
+    },
+    {
+      "path": "Cosmologie triplanaire",
+      "title": "Cosmologie triplanaire",
+      "type": "mythus",
+      "aliases": [
+        "Triplanaire",
+        "Drei-Ebenen-Modell"
+      ],
+      "w": 60
     },
     {
       "path": "Ahnengeister",
