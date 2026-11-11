@@ -9,7 +9,7 @@ Das Kabinett ist das **Regentschaftsgremium** mit fünf Mitgliedern. Solange die
 
 Unter dem Kabinett stehen [[Reichsrat und Unterhaus]], jeweils aus den drei Parteien in unterschiedlichen Anteilen zusammengesetzt. Das Kabinett muss seine Entscheidungen von beiden Kammern absegnen lassen — ein pseudodemokratisches Gefüge, in dem Blut oben und Ideologie unten einander absegnen müssen.
 
-Die anderen vier Mitglieder kommen aus großen Häusern, nicht aus Parteien → [[Alte Häuser]]. Eines dieser Häuser steht durch eine Kaufehe den Alchemisten nahe: Die Gilde ist damit bis ins Regentschaftsgremium vorgedrungen, ihr Plan, „quasi adlig“ zu werden, hat die Spitze erreicht. Mitglied ist ferner [[Idron Delarive]], der den Posten seines Vaters einnahm — auf direkten Wunsch der Kaiserin → [[Erstes Dekret]]. Die anderen Mitglieder hielten ihn für ignorant und formbar; jeder von ihnen dachte vermutlich, ihn lenken zu können.
+Die anderen vier Mitglieder kommen aus großen Häusern, nicht aus Parteien → [[Alte Häuser]]. Eines dieser Häuser steht durch eine Kaufehe den Alchemisten nahe: Die Gilde ist damit bis ins Regentschaftsgremium vorgedrungen, ihr Plan, „quasi adlig“ zu werden, hat die Spitze erreicht. Mitglied ist ferner [[Idron Delarive]], der den verwaisten Sitz des ersten Kaiser-Gemahls erhielt — auf direkten Wunsch der Kaiserin → [[Erstes Dekret]]. Die anderen Mitglieder hielten ihn für ignorant und formbar; jeder von ihnen dachte vermutlich, ihn lenken zu können.
 
 Nach der [[Magokratie]] wurde Magie mit Regelungen und antimagischen Kabinettsräumen aus der Politik ferngehalten. In diesen Räumen kann sich keine Lesart der Gerüchte um die Magie der Kaiserin beweisen.
 

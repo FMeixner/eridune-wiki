@@ -8,7 +8,7 @@ Der erste Kaiser-Gemahl, ein Sohn von [[Ey-Minid]] und die erste echte Liebe der
 
 Offiziell gilt der Tod als [[E-Ushanna|Vasallentod]]. Seither sitzt eine Minderjährige auf dem Thron: Die [[Kindkaiserin]] übernahm mit etwa zehn Jahren unter Regentschaft → [[Kabinett]].
 
-Um die Tode ranken sich drei Erzählungen. Der Hof nennt es einen Vasallentod und lässt den Fall ruhen. [[Corentin E-Ushanna]], dessen Haus die Verantwortung als graue Figur trägt, redet seither entschiedener gegen die Flux-Technik; manche lesen daraus, dass er selbst einen Flux-Zwischenfall für möglich hält — ein Verdacht, den der Hof nie bestätigt hat. Und das nördliche [[Ey-Minid]] beschuldigt die Regentschaft, zu den Toden beigetragen zu haben, und macht sie für den Verlust verantwortlich → [[Wettlauf um Calveris]].
+Um die Tode ranken sich zwei Erzählungen. Der Hof nennt es einen Vasallentod und lässt den Fall ruhen. [[Corentin E-Ushanna]], dem man den Tod zuschreibt, schweigt dazu und redet seither nur umso entschiedener gegen die Flux-Technik. Und das nördliche [[Ey-Minid]] beschuldigt die Regentschaft, zu den Toden beigetragen zu haben, und macht sie für den Verlust verantwortlich → [[Wettlauf um Calveris]].
 
 ## Offene Fragen
 - Auf welche Belege stützt Ey-Minid seine Beschuldigung?

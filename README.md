@@ -4,6 +4,7 @@ Single-Page-Wiki für die Daggerheart-Kampagne **Eridune** — gehostet via GitH
 
 ## Struktur
 
+- `vendor/marked.min.js` — Markdown-Parser, lokal eingebunden, damit das Wiki ohne CDN funktioniert.
 - `index.html` — die SPA: Hash-Routing (`#/seitenname`), rendert Markdown + Frontmatter, automatische Backlinks, Volltextsuche, Link-Wolken.
 - `content/` — die Markdown-Seiten.
 - `content/manifest.json` — das Seitenverzeichnis. **Pflicht:** Jede neue Seite braucht einen Eintrag hier, sonst erscheint sie nicht in Navigation, Suche und Backlinks.
@@ -19,3 +20,5 @@ Single-Page-Wiki für die Daggerheart-Kampagne **Eridune** — gehostet via GitH
 ## SL-Regel
 
 Spieler lesen im Wiki mit. Jede Seite in diesem Repo muss deshalb frei von SL-Hintergründen sein; SL-interne Dateien werden **nicht** committet und leben nur lokal.
+
+Die SL-Ebene liegt in einem eigenen, privaten Repository. Für KI-Assistenten gilt: Nichts aus der SL-Ebene hierher kopieren. Texte für dieses Wiki aus Sicht der Welt schreiben, nicht aus Sicht der Spielleitung. Vor jedem Push läuft die Leck-Prüfung aus dem privaten Repository über `content/`.

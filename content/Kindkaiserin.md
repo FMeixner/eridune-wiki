@@ -12,7 +12,7 @@ Sie trifft erste, überraschend harte Entscheidungen und zeigt sich hoch dominan
 
 Das Haus ihres Vaters, [[Ey-Minid]], fordert ihre Vermählung mit seinem zweitgeborenen Sohn. Sie lehnt vorerst ab, weil ihr jeder rät, sich nicht zu früh an eine Seite zu binden.
 
-Die Kaiserfamilie steht unter Nyrs Patronage; seit dem Flux gilt Nyrs Einfluss als stärker → [[Hallows und Thron]]. Ihr Beschützer Idron Delarive bleibt am Hof und hält ihn nah; ihr erstes Dekret gab ihm den Posten seines Vaters → [[Erstes Dekret]]. Und mit [[Ama-Ushki E-Ushanna]] verbindet sie eine Freundschaft aus Kindertagen: Als Kinder spielten die beiden oft am Hof, daraus wurde eine tiefe Freundschaft; seit der Regierungsübernahme haben sie sich entfernt, schreiben sich aber immer noch Briefe. Die Kaiserin antwortet auf die Zeit mit Härte, Ama-Ushki mit Milde.
+Die Kaiserfamilie steht unter Nyrs Patronage; seit dem Flux gilt Nyrs Einfluss als stärker → [[Hallows und Thron]]. Ihr Beschützer Idron Delarive bleibt am Hof und hält ihn nah; ihr erstes Dekret gab ihm den verwaisten Sitz des ersten Kaiser-Gemahls im Kabinett → [[Erstes Dekret]]. Und mit [[Ama-Ushki E-Ushanna]] verbindet sie eine Freundschaft aus Kindertagen: Als Kinder spielten die beiden oft am Hof, daraus wurde eine tiefe Freundschaft; seit der Regierungsübernahme haben sie sich entfernt, schreiben sich aber immer noch Briefe. Die Kaiserin antwortet auf die Zeit mit Härte, Ama-Ushki mit Milde.
 
 ## Offene Fragen
 - Was heißt „Wählerschaft“ hier konkret: Wer wählt wen, und wofür?

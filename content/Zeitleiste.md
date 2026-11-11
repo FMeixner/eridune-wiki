@@ -12,7 +12,6 @@ aktualisiert: 2026-11-10
 | bis vor einigen hundert Jahren | [[Magokratie]] |
 | vor etwa 70 Jahren | Der [[Eidenflux]] kommt in die Welt |
 | vor etwa 60 Jahren | Erste [[Infernis]] durch Flux-Experimente |
-| vor etwa 10 Jahren | Das Todesritual der [[E-Ushanna]] wirkt in [[Calveris]] nicht mehr |
 | vor der Spaltung | [[Ey-Minid]] ist der Kornspeicher Eridunes |
 | vor dem Tod des Kaiserpaars | Der erste Kaiser-Gemahl fällt am [[Illfors]] → [[Erster Kaiser-Gemahl]] |
 | vor etwa 7 Jahren | [[Tod des Kaiserpaars]]: offiziell ein Vasallentod; die [[Kindkaiserin]] übernimmt mit etwa zehn Jahren unter Regentschaft |
