@@ -1,5 +1,7 @@
 ---
 tags: [eridune, uebersicht]
+typ: uebersicht
+gewicht: 95
 kurz: Willkommen in Eridune — Hauptstadt, Nordgrenze, Flux und die Macht der Häuser.
 aktualisiert: 2026-11-10
 ---

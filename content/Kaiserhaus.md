@@ -1,5 +1,7 @@
 ---
 tags: [eridune, haus]
+typ: haus
+gewicht: 70
 aliases: [Kaiserlinie]
 aktualisiert: 2026-11-10
 ---
@@ -9,7 +11,5 @@ Die Kaiserlinie ist matrilineal: Der Thron geht an die Töchter, und die Kaiseri
 
 Heutige Kaiserin ist die [[Kindkaiserin]]. Ihr leiblicher Vater stammte aus dem mächtigen nördlichen Haus [[Ey-Minid]]; ihre Mutter starb vor sieben Jahren mit ihrem zweiten Gemahl → [[Tod des Kaiserpaars]]. Traditioneller Vasall des Todes des Kaiserhauses ist [[E-Ushanna]].
 
-## Offene Fragen
-- Heißt das Haus anders, und trägt es die Vorsilbe *Nyr-* → [[Epoche 2 Hoch-Eridisch]]?
-- Welche Rechte hat ein Kaiser-Gemahl?
+## Ungeklärt
 - Gibt es weitere Erbinnen?

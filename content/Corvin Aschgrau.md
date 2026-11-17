@@ -1,5 +1,6 @@
 ---
 tags: [eridune, person]
+typ: person
 aliases: [Aschgrau]
 fraktion: Wurzelzorn
 aktualisiert: 2026-11-10
@@ -10,6 +11,6 @@ Anführer des [[Wurzelzorn]], der gewaltbereiten, radikalen Splittergruppe des [
 
 Die Helden befreiten ihn einst aus der Gefangenschaft; erst spät enthüllte sich, dass er den Wurzelzorn führt.
 
-## Offene Fragen
+## Ungeklärt
 - Was verbindet ihn mit Kesh, und wo trennen sie sich?
 - Wie steht er zum [[Erbeneid]], aus dem der Wurzelzorn hervorgeht?

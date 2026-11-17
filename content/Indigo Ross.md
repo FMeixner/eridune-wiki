@@ -1,5 +1,6 @@
 ---
 tags: [eridune, spielercharakter]
+typ: spielercharakter
 aktualisiert: 2026-11-10
 ---
 # Indigo Ross

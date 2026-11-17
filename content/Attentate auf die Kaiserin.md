@@ -1,5 +1,7 @@
 ---
 tags: [eridune, konzept, politik]
+typ: geschichte
+gewicht: 55
 aktualisiert: 2026-11-10
 ---
 # Attentate auf die Kaiserin
@@ -10,7 +12,7 @@ Jedes überlebte Attentat ist ein Indiz. Wirkt ihr Überleben unerklärlich, nä
 
 Wer hinter den Versuchen steckt, weiß niemand zu sagen. Gemunkelt wird über alle Lager — von denen, die die Monarchie loswerden wollen, bis zu Rivalen im [[Kabinett]].
 
-## Offene Fragen
+## Ungeklärt
 - Wer außer dem Beschützer schützt sie: Getreue, das [[Centraleum]], eine Fraktion, die sie lebend braucht?
 - Wie sieht ihr Überleben für Zeugen aus, und wer erfährt, wie es wirklich war?
 - Nutzt sie die Attentate selbst als Bühne, oder verrät ihr Überleben gegen ihren Willen etwas?

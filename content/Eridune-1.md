@@ -1,5 +1,8 @@
 ---
 tags: [eridune, verkehr]
+typ: verkehr
+gewicht: 55
+aliases: [Fluxbahn]
 aktualisiert: 2026-11-10
 ---
 # Eridune-1

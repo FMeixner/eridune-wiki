@@ -1,5 +1,8 @@
 ---
 tags: [eridune, mythos]
+typ: mythos
+gewicht: 60
+aliases: [Schöpfungsgeschichte]
 wissensebene: volksglaube
 aktualisiert: 2026-11-10
 ---
@@ -9,7 +12,7 @@ Die Elemente und die meisten Rassen kamen während der Schöpfung nach Eridune. 
 
 Der [[Erbeneid]] besteht auf einer einmaligen Schöpfungsgeschichte; die [[Kosmische Schübe|Schübe]] erkennt er an, den Flux aber nicht in ihrer Reihe → [[Herkunft des Flux]].
 
-## Offene Fragen
+## Ungeklärt
 - Welche Rolle spielen [[Log]], [[Mna]] und [[Nyr]] in der Schöpfung?
 - Bestand die Schöpfung selbst aus Schüben?
 - Welche Rassen kamen nicht mit der Schöpfung?

@@ -1,5 +1,7 @@
 ---
 tags: [eridune, konzept, politik]
+typ: konzept
+gewicht: 60
 wissensebene: volksglaube
 aktualisiert: 2026-11-10
 ---
@@ -11,8 +13,7 @@ Der Erbeneid stützt sich auf Traditionen, Überlieferungen und [[Ahnengeister]]
 
 Der Streit ist keiner über Fakten, sondern über Bewertung: Beide Seiten sehen an den Infernis, dass Flux Wesen verändert. Für den Erbeneid ist das Gefahr, für die Gilde Augmentation.
 
-## Offene Fragen
-- Wie erklären das [[Centraleum]] und die breite Bevölkerung den Flux?
-- Worin unterscheidet sich das Auftreten des Flux von einem Schub, und wer könnte das bemerken? Das wäre der Beweis, der dem Erbeneid fehlt. → [[Kosmische Schübe]]
+## Ungeklärt
+- Unterschied sich das Auftreten des Flux von dem eines Schubs, und wer hätte das bemerken können? → [[Kosmische Schübe]]
 - Was gilt in Eridune überhaupt als Beweis, und wer entscheidet das?
 - Gibt es etwas, das die Bewertung kippen könnte, statt nur die Fakten zu ergänzen?

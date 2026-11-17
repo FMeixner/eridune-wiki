@@ -1,76 +1,28 @@
 {
-  "coverage": "Kosmologie, Götter, Fraktionen & Orte · 62 Seiten",
+  "coverage": "64 Einträge",
   "pages": [
     {
       "path": "index",
-      "title": "Start",
+      "title": "Eridune-Wiki",
       "type": "uebersicht",
-      "w": 95
+      "w": 95,
+      "kurz": "Willkommen in Eridune — Hauptstadt, Nordgrenze, Flux und die Macht der Häuser."
     },
     {
       "path": "Eridune",
       "title": "Eridune",
       "type": "uebersicht",
-      "w": 100
+      "w": 100,
+      "kurz": "Ein Kontinent am Rande des Ozeans — Thron, Flux und die Ordnung der Götter."
     },
     {
       "path": "Calveris",
       "title": "Calveris",
       "type": "ort",
+      "w": 80,
       "aliases": [
         "Hauptstadt"
-      ],
-      "w": 80
-    },
-    {
-      "path": "Illfors",
-      "title": "Illfors",
-      "type": "ort",
-      "aliases": [
-        "Festung Illfors",
-        "Illfors-Fluss",
-        "Ilfors"
-      ],
-      "w": 70
-    },
-    {
-      "path": "Reisend",
-      "title": "Reisend",
-      "type": "ort"
-    },
-    {
-      "path": "Schlachthausviertel",
-      "title": "Schlachthausviertel",
-      "type": "ort"
-    },
-    {
-      "path": "Haken und Kerbe",
-      "title": "Haken und Kerbe",
-      "type": "ort"
-    },
-    {
-      "path": "Die Schatten",
-      "title": "Die Schatten",
-      "type": "ort"
-    },
-    {
-      "path": "Eridune-1",
-      "title": "Eridune-1",
-      "type": "verkehr",
-      "aliases": [
-        "Fluxbahn"
-      ],
-      "w": 55
-    },
-    {
-      "path": "Barum Schildhand",
-      "title": "Barum Schildhand",
-      "type": "spielercharakter"
-    },
-    {
-      "path": "Indigo Ross",
-      "title": "Indigo Ross",
-      "type": "spielercharakter"
+      ]
     },
     {
       "path": "Kindkaiserin",
@@ -79,21 +31,324 @@
       "w": 75
     },
     {
+      "path": "Eidenflux",
+      "title": "Eidenflux",
+      "type": "konzept",
+      "w": 72,
+      "aliases": [
+        "Flux"
+      ]
+    },
+    {
+      "path": "Ey-Minid",
+      "title": "Ey-Minid",
+      "type": "haus",
+      "w": 70,
+      "aliases": [
+        "Ea-Minid",
+        "Minid",
+        "Haus der zwei Flüsse"
+      ]
+    },
+    {
       "path": "Idron Delarive",
       "title": "Idron Delarive",
       "type": "person",
+      "w": 70,
       "aliases": [
         "Beschützer der Kaiserin",
         "Protector",
         "Lord Protector",
         "Idron"
-      ],
-      "w": 70
+      ]
     },
     {
-      "path": "Corentin E-Ushanna",
-      "title": "Corentin E-Ushanna",
-      "type": "person"
+      "path": "Illfors",
+      "title": "Illfors",
+      "type": "ort",
+      "w": 70,
+      "aliases": [
+        "Festung Illfors",
+        "Illfors-Fluss",
+        "Ilfors"
+      ]
+    },
+    {
+      "path": "Kaiserhaus",
+      "title": "Kaiserhaus",
+      "type": "haus",
+      "w": 70,
+      "aliases": [
+        "Kaiserlinie"
+      ]
+    },
+    {
+      "path": "E-Ushanna",
+      "title": "E-Ushanna",
+      "type": "haus",
+      "w": 65,
+      "aliases": [
+        "Ushanna",
+        "Vasall des Todes"
+      ]
+    },
+    {
+      "path": "Etienne Sarn",
+      "title": "Etienne Sarn",
+      "type": "person",
+      "w": 65,
+      "aliases": [
+        "Sarn"
+      ]
+    },
+    {
+      "path": "Flux und Magie",
+      "title": "Flux und Magie",
+      "type": "konzept",
+      "w": 65
+    },
+    {
+      "path": "Hallows und Thron",
+      "title": "Hallows Above und der Thron",
+      "type": "mythos",
+      "w": 65,
+      "aliases": [
+        "Nyrs Ordnung",
+        "Patronage der Kaiserfamilie"
+      ]
+    },
+    {
+      "path": "Log",
+      "title": "Log",
+      "type": "gott",
+      "w": 65
+    },
+    {
+      "path": "Nyr",
+      "title": "Nyr",
+      "type": "gott",
+      "w": 65,
+      "aliases": [
+        "Chryss"
+      ]
+    },
+    {
+      "path": "Wettlauf um Calveris",
+      "title": "Wettlauf um Calveris",
+      "type": "geschichte",
+      "w": 65
+    },
+    {
+      "path": "Alchemistengilde",
+      "title": "Alchemistengilde",
+      "type": "fraktion",
+      "w": 60
+    },
+    {
+      "path": "Alte Häuser",
+      "title": "Alte Häuser",
+      "type": "haus",
+      "w": 60
+    },
+    {
+      "path": "Centraleum",
+      "title": "Centraleum",
+      "type": "fraktion",
+      "w": 60
+    },
+    {
+      "path": "Cosmologie triplanaire",
+      "title": "Cosmologie triplanaire",
+      "type": "kosmologie",
+      "w": 60,
+      "aliases": [
+        "Triplanaire",
+        "Drei-Ebenen-Modell"
+      ]
+    },
+    {
+      "path": "Erbeneid",
+      "title": "Erbeneid",
+      "type": "fraktion",
+      "w": 60
+    },
+    {
+      "path": "Flux-Schwelle",
+      "title": "Flux-Schwelle",
+      "type": "konzept",
+      "w": 60
+    },
+    {
+      "path": "Herkunft des Flux",
+      "title": "Herkunft des Flux",
+      "type": "konzept",
+      "w": 60
+    },
+    {
+      "path": "Infernis",
+      "title": "Infernis",
+      "type": "volk",
+      "w": 60
+    },
+    {
+      "path": "Kabinett",
+      "title": "Kabinett",
+      "type": "politik",
+      "w": 60
+    },
+    {
+      "path": "Magie",
+      "title": "Magie",
+      "type": "konzept",
+      "w": 60,
+      "aliases": [
+        "Spark",
+        "angeborene Magie"
+      ]
+    },
+    {
+      "path": "Magie auf dem Thron",
+      "title": "Magie auf dem Thron",
+      "type": "mythos",
+      "w": 60
+    },
+    {
+      "path": "Magische Reifung",
+      "title": "Magische Reifung",
+      "type": "konzept",
+      "w": 60,
+      "aliases": [
+        "Magische Pubertät",
+        "Zwanzig"
+      ]
+    },
+    {
+      "path": "Mna",
+      "title": "Mna",
+      "type": "gott",
+      "w": 60,
+      "aliases": [
+        "Amara",
+        "Amnara",
+        "Mnara",
+        "Mutter von Wiese und Wurzel"
+      ]
+    },
+    {
+      "path": "Schöpfung",
+      "title": "Schöpfung",
+      "type": "mythos",
+      "w": 60,
+      "aliases": [
+        "Schöpfungsgeschichte"
+      ]
+    },
+    {
+      "path": "Tod des Kaiserpaars",
+      "title": "Tod des Kaiserpaars",
+      "type": "geschichte",
+      "w": 60
+    },
+    {
+      "path": "Attentate auf die Kaiserin",
+      "title": "Attentate auf die Kaiserin",
+      "type": "geschichte",
+      "w": 55
+    },
+    {
+      "path": "Ebenen",
+      "title": "Ebenen",
+      "type": "kosmologie",
+      "w": 55,
+      "aliases": [
+        "Realms",
+        "Core Realms",
+        "Realms below"
+      ]
+    },
+    {
+      "path": "Eridune-1",
+      "title": "Eridune-1",
+      "type": "verkehr",
+      "w": 55,
+      "aliases": [
+        "Fluxbahn"
+      ]
+    },
+    {
+      "path": "Kosmische Schübe",
+      "title": "Kosmische Schübe",
+      "type": "kosmologie",
+      "w": 55,
+      "aliases": [
+        "Schübe",
+        "Astral Realms",
+        "elementare Ebene"
+      ]
+    },
+    {
+      "path": "Magokratie",
+      "title": "Magokratie",
+      "type": "geschichte",
+      "w": 55
+    },
+    {
+      "path": "Nyrs Raub",
+      "title": "Nyrs Raub",
+      "type": "mythos",
+      "w": 55
+    },
+    {
+      "path": "Akzeptanz von Flux-Technik",
+      "title": "Akzeptanz von Flux-Technik",
+      "type": "konzept",
+      "w": 50
+    },
+    {
+      "path": "Zeitleiste",
+      "title": "Zeitleiste",
+      "type": "geschichte",
+      "w": 50
+    },
+    {
+      "path": "Faune",
+      "title": "Faune",
+      "type": "volk",
+      "w": 45
+    },
+    {
+      "path": "Feen",
+      "title": "Feen",
+      "type": "volk",
+      "w": 45
+    },
+    {
+      "path": "Nachtwache",
+      "title": "Nachtwache",
+      "type": "fraktion",
+      "w": 45,
+      "aliases": [
+        "Nachtwächter",
+        "Nightwatcher"
+      ]
+    },
+    {
+      "path": "Wurzelzorn",
+      "title": "Wurzelzorn",
+      "type": "fraktion",
+      "w": 45
+    },
+    {
+      "path": "Ahnengeister",
+      "title": "Ahnengeister",
+      "type": "konzept",
+      "w": 40
+    },
+    {
+      "path": "Bastardnamen",
+      "title": "Bastardnamen",
+      "type": "sprache",
+      "w": 30
     },
     {
       "path": "Ama-Ushki E-Ushanna",
@@ -106,39 +361,24 @@
       ]
     },
     {
-      "path": "Oriette Ey-Minid",
-      "title": "Oriette Ey-Minid",
-      "type": "person",
-      "aliases": [
-        "Oriette"
-      ]
+      "path": "Barum Schildhand",
+      "title": "Barum Schildhand",
+      "type": "spielercharakter"
     },
     {
-      "path": "Erster Kaiser-Gemahl",
-      "title": "Erster Kaiser-Gemahl",
+      "path": "CES 0.1",
+      "title": "CES 0.1",
+      "type": "vermerk"
+    },
+    {
+      "path": "CES 0.2",
+      "title": "CES 0.2",
+      "type": "spielercharakter"
+    },
+    {
+      "path": "Corentin E-Ushanna",
+      "title": "Corentin E-Ushanna",
       "type": "person"
-    },
-    {
-      "path": "Kaiser-Gemahl",
-      "title": "Kaiser-Gemahl",
-      "type": "person"
-    },
-    {
-      "path": "Etienne Sarn",
-      "title": "Etienne Sarn",
-      "type": "person",
-      "aliases": [
-        "Sarn"
-      ],
-      "w": 65
-    },
-    {
-      "path": "Maelor Kesh",
-      "title": "Maelor Kesh",
-      "type": "person",
-      "aliases": [
-        "Kesh"
-      ]
     },
     {
       "path": "Corvin Aschgrau",
@@ -149,12 +389,9 @@
       ]
     },
     {
-      "path": "Seraph von Illfors",
-      "title": "Seraph von Illfors",
-      "type": "person",
-      "aliases": [
-        "Seraph"
-      ]
+      "path": "Die Schatten",
+      "title": "Die Schatten",
+      "type": "ort"
     },
     {
       "path": "Eliané",
@@ -162,296 +399,72 @@
       "type": "person"
     },
     {
-      "path": "Kabinett",
-      "title": "Kabinett",
-      "type": "fraktion",
-      "w": 60
+      "path": "Erster Kaiser-Gemahl",
+      "title": "Erster Kaiser-Gemahl",
+      "type": "person"
+    },
+    {
+      "path": "Erstes Dekret",
+      "title": "Erstes Dekret",
+      "type": "politik"
+    },
+    {
+      "path": "Haken und Kerbe",
+      "title": "Haken und Kerbe",
+      "type": "ort"
+    },
+    {
+      "path": "Indigo Ross",
+      "title": "Indigo Ross",
+      "type": "spielercharakter"
+    },
+    {
+      "path": "Kaiser-Gemahl",
+      "title": "Kaiser-Gemahl",
+      "type": "person"
+    },
+    {
+      "path": "Maelor Kesh",
+      "title": "Maelor Kesh",
+      "type": "person",
+      "aliases": [
+        "Kesh"
+      ]
+    },
+    {
+      "path": "Oriette Ey-Minid",
+      "title": "Oriette Ey-Minid",
+      "type": "person",
+      "aliases": [
+        "Oriette"
+      ]
     },
     {
       "path": "Reichsrat und Unterhaus",
       "title": "Reichsrat und Unterhaus",
-      "type": "fraktion",
+      "type": "politik",
       "aliases": [
         "Reichsrat",
         "Unterhaus"
       ]
     },
     {
-      "path": "Centraleum",
-      "title": "Centraleum",
-      "type": "fraktion",
-      "w": 60
+      "path": "Reisend",
+      "title": "Reisend",
+      "type": "ort"
     },
     {
-      "path": "Erbeneid",
-      "title": "Erbeneid",
-      "type": "fraktion",
-      "w": 60
+      "path": "Schlachthausviertel",
+      "title": "Schlachthausviertel",
+      "type": "ort"
     },
     {
-      "path": "Eidenflux",
-      "title": "Eidenflux",
-      "type": "konzept",
+      "path": "Seraph von Illfors",
+      "title": "Seraph von Illfors",
+      "type": "person",
       "aliases": [
-        "Flux"
-      ],
-      "w": 72
-    },
-    {
-      "path": "Erstes Dekret",
-      "title": "Erstes Dekret",
-      "type": "konzept"
-    },
-    {
-      "path": "CES 0.1",
-      "title": "CES 0.1",
-      "type": "artefakt"
-    },
-    {
-      "path": "CES 0.2",
-      "title": "CES 0.2",
-      "type": "spielercharakter"
-    },
-    {
-      "path": "Vorlage Haus",
-      "title": "Vorlage Haus",
-      "type": "vorlage"
-    },
-    {
-      "path": "Vorlage NPC",
-      "title": "Vorlage NPC",
-      "type": "vorlage"
-    },
-    {
-      "path": "Schöpfung",
-      "title": "Schöpfung",
-      "type": "mythus",
-      "aliases": [
-        "Schöpfungsgeschichte"
-      ],
-      "w": 60
-    },
-    {
-      "path": "Nyrs Raub",
-      "title": "Nyrs Raub",
-      "type": "mythus",
-      "w": 55
-    },
-    {
-      "path": "Hallows und Thron",
-      "title": "Hallows Above und der Thron",
-      "type": "mythus",
-      "aliases": [
-        "Nyrs Ordnung",
-        "Patronage der Kaiserfamilie"
-      ],
-      "w": 65
-    },
-    {
-      "path": "Magie auf dem Thron",
-      "title": "Magie auf dem Thron",
-      "type": "mythus",
-      "w": 60
-    },
-    {
-      "path": "Ebenen",
-      "title": "Ebenen",
-      "type": "mythus",
-      "aliases": [
-        "Realms",
-        "Core Realms",
-        "Realms below"
-      ],
-      "w": 55
-    },
-    {
-      "path": "Kosmische Schübe",
-      "title": "Kosmische Schübe",
-      "type": "mythus",
-      "aliases": [
-        "Schübe",
-        "Astral Realms",
-        "elementare Ebene"
-      ],
-      "w": 55
-    },
-    {
-      "path": "Cosmologie triplanaire",
-      "title": "Cosmologie triplanaire",
-      "type": "mythus",
-      "aliases": [
-        "Triplanaire",
-        "Drei-Ebenen-Modell"
-      ],
-      "w": 60
-    },
-    {
-      "path": "Ahnengeister",
-      "title": "Ahnengeister",
-      "type": "konzept",
-      "w": 40
-    },
-    {
-      "path": "Akzeptanz von Flux-Technik",
-      "title": "Akzeptanz von Flux-Technik",
-      "type": "konzept",
-      "w": 50
-    },
-    {
-      "path": "Flux und Magie",
-      "title": "Flux und Magie",
-      "type": "konzept",
-      "w": 65
-    },
-    {
-      "path": "Flux-Schwelle",
-      "title": "Flux-Schwelle",
-      "type": "konzept",
-      "aliases": [
-        "Fluxgolem"
-      ],
-      "w": 60
-    },
-    {
-      "path": "Herkunft des Flux",
-      "title": "Herkunft des Flux",
-      "type": "konzept",
-      "w": 60
-    },
-    {
-      "path": "Magie",
-      "title": "Magie",
-      "type": "konzept",
-      "aliases": [
-        "Spark",
-        "angeborene Magie"
-      ],
-      "w": 60
-    },
-    {
-      "path": "Magische Reifung",
-      "title": "Magische Reifung",
-      "type": "konzept",
-      "aliases": [
-        "Magische Pubertät",
-        "Zwanzig"
-      ],
-      "w": 60
-    },
-    {
-      "path": "Alte Häuser",
-      "title": "Alte Häuser",
-      "type": "haus",
-      "w": 60
-    },
-    {
-      "path": "E-Ushanna",
-      "title": "E-Ushanna",
-      "type": "haus",
-      "aliases": [
-        "Ushanna",
-        "Vasall des Todes"
-      ],
-      "w": 65
-    },
-    {
-      "path": "Kaiserhaus",
-      "title": "Kaiserhaus",
-      "type": "haus",
-      "aliases": [
-        "Kaiserlinie"
-      ],
-      "w": 70
-    },
-    {
-      "path": "Ey-Minid",
-      "title": "Ey-Minid",
-      "type": "haus",
-      "aliases": [
-        "Ea-Minid",
-        "Minid",
-        "Haus der zwei Flüsse"
-      ],
-      "w": 70
-    },
-    {
-      "path": "Log",
-      "title": "Log",
-      "type": "mythus",
-      "w": 65
-    },
-    {
-      "path": "Nyr",
-      "title": "Nyr",
-      "type": "mythus",
-      "aliases": [
-        "Chryss"
-      ],
-      "w": 65
-    },
-    {
-      "path": "Mna",
-      "title": "Mna",
-      "type": "mythus",
-      "aliases": [
-        "Amara",
-        "Amnara",
-        "Mnara",
-        "Mutter von Wiese und Wurzel"
-      ],
-      "w": 60
-    },
-    {
-      "path": "Magokratie",
-      "title": "Magokratie",
-      "type": "konzept",
-      "w": 55
-    },
-    {
-      "path": "Alchemistengilde",
-      "title": "Alchemistengilde",
-      "type": "fraktion",
-      "w": 60
-    },
-    {
-      "path": "Nachtwache",
-      "title": "Nachtwache",
-      "type": "fraktion",
-      "aliases": [
-        "Nachtwächter",
-        "Nightwatcher"
-      ],
-      "w": 45
-    },
-    {
-      "path": "Wurzelzorn",
-      "title": "Wurzelzorn",
-      "type": "fraktion",
-      "w": 45
-    },
-    {
-      "path": "Attentate auf die Kaiserin",
-      "title": "Attentate auf die Kaiserin",
-      "type": "konzept",
-      "w": 55
-    },
-    {
-      "path": "Tod des Kaiserpaars",
-      "title": "Tod des Kaiserpaars",
-      "type": "konzept",
-      "w": 60
-    },
-    {
-      "path": "Wettlauf um Calveris",
-      "title": "Wettlauf um Calveris",
-      "type": "konzept",
-      "w": 65
-    },
-    {
-      "path": "Zeitleiste",
-      "title": "Zeitleiste",
-      "type": "konzept",
-      "w": 50
+        "Seraph"
+      ]
     }
   ]
 }

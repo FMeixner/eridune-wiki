@@ -1,5 +1,7 @@
 ---
 tags: [eridune, gott]
+typ: gott
+gewicht: 65
 aliases: [Chryss]
 wissensebene: volksglaube
 aktualisiert: 2026-11-10

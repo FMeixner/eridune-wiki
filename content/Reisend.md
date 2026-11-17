@@ -1,5 +1,6 @@
 ---
 tags: [eridune, ort]
+typ: ort
 aktualisiert: 2026-11-10
 ---
 # Reisend

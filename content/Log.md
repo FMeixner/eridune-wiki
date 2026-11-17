@@ -1,5 +1,7 @@
 ---
 tags: [eridune, gott]
+typ: gott
+gewicht: 65
 wissensebene: volksglaube
 aktualisiert: 2026-11-10
 ---
@@ -9,5 +11,5 @@ Log ist der Gott des Stillstands und des Todes; Fels und Eis sind seine Elemente
 
 Im Volksglauben neidet Log Nyr den [[Nyrs Raub|Raub aus der Vorzeit]] und straft magische Machtkonzentration auf seinem Leib mit Naturkatastrophen und erstarkenden kriegerischen Ambitionen in „seinen“ Völkern → [[Magie auf dem Thron]].
 
-## Offene Fragen
+## Ungeklärt
 - Wie sind Log und [[Mna]] miteinander verwandt?

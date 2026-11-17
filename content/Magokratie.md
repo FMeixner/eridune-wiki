@@ -1,5 +1,7 @@
 ---
 tags: [eridune, geschichte]
+typ: geschichte
+gewicht: 55
 wissensebene: volksglaube
 aktualisiert: 2026-11-10
 ---
@@ -9,7 +11,7 @@ Bis vor einigen hundert Jahren herrschte in Eridune eine klare Magokratie: Polit
 
 Im Nachgang der aus dem Ruder gelaufenen Magokratie wurde Magie mit Regelungen und antimagischen Kabinettsräumen aus der Politik ferngehalten → [[Kabinett]].
 
-## Offene Fragen
+## Ungeklärt
 - Wie endete die Magokratie, und wer hat die Geschichte darüber geschrieben?
 - Welche alten Häuser existieren noch, und wo stehen sie heute politisch? → [[Alte Häuser]]
 - Was bleibt vom Adelsanspruch eines Hauses, dessen Spark erlischt?

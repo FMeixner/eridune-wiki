@@ -1,5 +1,7 @@
 ---
 tags: [eridune, geschichte, konzept]
+typ: geschichte
+gewicht: 50
 aktualisiert: 2026-11-10
 ---
 # Zeitleiste
@@ -8,7 +10,7 @@ aktualisiert: 2026-11-10
 |---|---|
 | Vorzeit | [[Nyrs Raub]] |
 | [[Schöpfung]] | Die Elemente und die meisten Rassen kommen nach Eridune |
-| unbestimmt | [[Faune]] und [[Feen]] kommen bei einem Schub herein → [[Kosmische Schübe]] |
+| unbestimmt | [[Faune]] und [[Feen]] kommen aus ihren eigenen Realms nach Eridune → [[Kosmische Schübe]] |
 | bis vor einigen hundert Jahren | [[Magokratie]] |
 | vor etwa 70 Jahren | Der [[Eidenflux]] kommt in die Welt |
 | vor etwa 60 Jahren | Erste [[Infernis]] durch Flux-Experimente |
@@ -22,7 +24,7 @@ aktualisiert: 2026-11-10
 
 Flux ist erst etwa 70 Jahre alt — wer älter ist, kennt die Welt vor dem Flux aus eigener Erinnerung. Zwischen dem Auftreten des Flux und den ersten Infernis liegen nur etwa zehn Jahre.
 
-## Offene Fragen
+## Ungeklärt
 - In welcher Reihenfolge stehen Nyrs Raub und die Schöpfung?
 - Wann genau endete die Magokratie, und was kam danach bis zum Flux?
 - Was geschah in den zehn Jahren zwischen dem Auftreten des Flux und den ersten Infernis?

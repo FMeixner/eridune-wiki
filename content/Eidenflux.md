@@ -1,5 +1,7 @@
 ---
 tags: [eridune, konzept]
+typ: konzept
+gewicht: 72
 aliases: [Flux]
 wissensebene: volksglaube
 aktualisiert: 2026-11-10
@@ -14,6 +16,6 @@ Er verändert die Welt: Sein Aerosol führt über Generationen zu Tiermutationen
 
 In der Öffentlichkeit ist der Flux als Technik und Wirtschaftsfaktor bekannt und wird gefeiert — während er die Gesellschaft zunehmend spaltet. Seine Herkunft ist öffentlich umstritten → [[Herkunft des Flux]]. Dass Flux Lebewesen verändern kann, ist bekannt; die [[Alchemistengilde]] sieht darin Augmentation, doch Flux, der Lebewesen zu menschenähnlich verändert, ist vielen unheimlich. Die Akzeptanz hängt davon ab, wie nah Flux dem Körper kommt → [[Akzeptanz von Flux-Technik]]. Ein Gerücht behauptet, seit dem Flux in der Welt sei, würden weniger magiebegabte Kinder geboren → [[Flux und Magie]]; ermöglicht hat er Wunder der Technik — manche fürchten, er raube den Menschen eigene Potenz und schaffe Abhängigkeiten.
 
-## Offene Fragen
+## Ungeklärt
 - Verändert Flux auch die, die ihn nur nutzen oder verbrauchen, nicht nur Versuchsobjekte? → [[Infernis]]
 - Wo trat Flux „wie durch eine Membran“ erstmals auf, und wer hat es gesehen?

@@ -1,5 +1,7 @@
 ---
 tags: [eridune, konzept, magie]
+typ: konzept
+gewicht: 60
 aliases: [Magische Pubertät, Zwanzig]
 wissensebene: volksglaube
 aktualisiert: 2026-11-10
@@ -12,7 +14,7 @@ Magie entwickelt sich parallel zur Reifung zum Erwachsenen: Wie Stimmbruch, horm
 
 Mit 20 wird sichtbar, wer magisch ist. Wer dieses Alter jahrgangsweise erfasst, hätte genau die Zahlen, die dem [[Erbeneid]] im Streit um den Rückgang der Magie fehlen → [[Flux und Magie]].
 
-## Offene Fragen
+## Ungeklärt
 - Wie wird der 20. Geburtstag begangen: Fest, Prüfung, Registrierung?
 - Gibt es Register darüber, wer mit 20 magisch ist, und wer führt sie?
 - Wie wirkt sich der Flux auf die Reifung aus: weniger Durchbrüche, spätere, schwächere?

@@ -1,5 +1,7 @@
 ---
 tags: [eridune, ort]
+typ: ort
+gewicht: 80
 aliases: [Hauptstadt]
 aktualisiert: 2026-11-11
 ---
@@ -11,7 +13,5 @@ Die Stadt ist inzwischen vom Flux durchsetzt; was das für althergebrachte Riten
 
 Die Stadt gliedert sich in mehrere Viertel, darunter **[[Die Schatten]]**. Bekannte Orte sind das **[[Schlachthausviertel]]**, die Taverne **[[Haken und Kerbe]]** und der **Bahnhof** der „Fluxbahn“ [[Eridune-1]].
 
-## Offene Fragen
-- Welche Viertel gibt es, und welches Haus oder welche Fraktion beherrscht welches?
-- Wo sitzen Kabinett, Gilde und Erbeneid?
+## Ungeklärt
 - Wo lebt die Unterwelt, in der die Crews arbeiten?

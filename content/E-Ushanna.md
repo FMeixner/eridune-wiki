@@ -1,10 +1,12 @@
 ---
 tags: [eridune, haus]
+typ: haus
+gewicht: 65
 aliases: [Ushanna, Vasall des Todes]
 fraktion:
 lehnsherr: Kaiserhaus
 vasallen:
-prinzip: Stillstand (Log); Magie aus Nyrs Ordnung
+prinzip: Stillstand (Log)
 aktualisiert: 2026-11-10
 ---
 # E-Ushanna
@@ -31,9 +33,7 @@ Tod und die stillstehenden Elemente sind [[Log]]s Domäne; das Haus steht dem Pr
 
 ## Name
 
-Ur-Eridisch: *E* (Haus) + *ush* (Tod) + *-anna* → [[Epoche 1 Ur-Eridisch]]. Mögliche Lesarten: „Haus des Todes unter dem Himmel“ oder „Haus des stillen Atems“. Der Name steht noch in der Urform, ohne die Ea-/Ey-Formen späterer Epochen.
+Der Name stammt aus dem Ur-Eridischen, der ältesten Sprachschicht: *E* (Haus) + *ush* (Tod) + *-anna*. Mögliche Lesarten: „Haus des Todes unter dem Himmel“ oder „Haus des stillen Atems“. Der Name steht noch in der Urform, ohne die Ea-/Ey-Formen späterer Epochen.
 
-## Offene Fragen
-- Welche Elemente genau: Fels, Eis, stilles Wasser, Erde?
-- Gibt es das Amt des Vasallen des Todes formal noch?
+## Ungeklärt
 - Tragen die Kinder, so die Erzählung, etwas von dem Toten in sich, den ihre Geburt ausglich?

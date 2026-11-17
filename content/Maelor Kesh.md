@@ -1,5 +1,6 @@
 ---
 tags: [eridune, person]
+typ: person
 aliases: [Kesh]
 fraktion:
 aktualisiert: 2026-11-10
@@ -10,7 +11,6 @@ Charismatischer, moralisch ambivalenter Aufständischer und Auftraggeber; nicht 
 
 Seine Leute verübten den Anschlag auf die Schleiergrube, um etwas zu beweisen; [[Eliané]] haute die Helden dabei heraus.
 
-## Offene Fragen
-- Ist Kesh der Laternenmann, unter dessen Banner sich alte Kolonisten sammeln?
+## Ungeklärt
 - Gehört er einer der drei Parteien an, oder steht er außerhalb?
 - Was ist seine politische Agenda konkret?

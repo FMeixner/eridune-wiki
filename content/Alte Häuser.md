@@ -1,5 +1,7 @@
 ---
 tags: [eridune, haus, politik]
+typ: haus
+gewicht: 60
 wissensebene: volksglaube
 aktualisiert: 2026-11-10
 ---
@@ -13,8 +15,7 @@ Neben [[Idron Delarive]] stellen vier große Häuser das [[Kabinett]]; eines dav
 
 Bekannte Häuser: [[E-Ushanna]] mit seiner besonderen Verbindung zum Tod, und [[Ey-Minid]], das Haus der zwei Flüsse im Norden, einst Kornspeicher Eridunes — es bereitet einen Coup gegen die Regentschaft vor.
 
-## Offene Fragen
-- Welche Häuser gibt es, und auf welcher Seite stehen sie?
+## Ungeklärt
 - Bleibt der Spark in den eingeheirateten Häusern auf Dauer unberührt?
 - Wie sehen die verarmten alten Häuser die eingeheirateten?
 - Wo stehen die alten Häuser politisch: [[Erbeneid]], [[Centraleum]], Gilde?

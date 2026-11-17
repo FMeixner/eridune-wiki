@@ -1,5 +1,7 @@
 ---
 tags: [eridune, politik]
+typ: politik
+gewicht: 60
 wissensebene: volksglaube
 aktualisiert: 2026-11-10
 ---
@@ -15,10 +17,7 @@ Nach der [[Magokratie]] wurde Magie mit Regelungen und antimagischen Kabinettsr�
 
 Mit 20 braucht die Kaiserin keine Zustimmung mehr, nur noch rhetorische Anerkennung und Beratung. An ihrem 20. Geburtstag verliert das Kabinett seine Entscheidungsmacht: Jedes Mitglied hat einen Grund, die Zeit bis dahin zu nutzen, und manche einen Grund, sie zu verlängern → [[Wettlauf um Calveris]].
 
-## Offene Fragen
-- Welche vier großen Häuser sitzen im Kabinett? Gehören [[E-Ushanna]] oder [[Ey-Minid]] dazu?
-- Welchen Posten hatte der erste Kaiser-Gemahl genau, den Idron übernahm?
+## Ungeklärt
 - Wie entsteht eine Mehrheit, und kann die Kaiserin überstimmt werden?
-- Was ändert sich mit ihrer Mündigkeit, und wann ist es so weit?
 - Wer verliert am meisten, wenn das Kabinett an Macht verliert?
 - Wie funktionieren die antimagischen Räume: Flux-Technik, alte Bannmagie, beides? Wer wartet sie?

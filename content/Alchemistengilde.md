@@ -1,5 +1,7 @@
 ---
 tags: [eridune, fraktion]
+typ: fraktion
+gewicht: 60
 aktualisiert: 2026-11-10
 ---
 # Alchemistengilde
@@ -12,8 +14,8 @@ Eine Heuchelei ist ihr anzumerken: Reiche Alchemisten leben daheim puristisch be
 
 Bei der Frage einer magiebegabten Kaiserin ist die Gilde gespalten: Den Geld- und Machtorientierten ist es völlig egal; die ideologischen Technokraten sehen in einer magischen Kaiserin einen Rückfall in die [[Magokratie]]. Die Ideologen sind in der Minderheit. Würde eine Magiebegabung der [[Kindkaiserin]] als wahr gelten, verlöre sie die Gilde als Wählerschaft. Die Kaiserin will die Gilde reglementieren, um Recht und Ordnung zurückzubringen.
 
-## Offene Fragen
-- Was weiß die Gilde über den Rückgang der Magie, und was hält sie zurück? → [[Flux und Magie]]
+## Ungeklärt
+- Was weiß die Gilde über den angeblichen Rückgang der Magie? → [[Flux und Magie]]
 - Wie reagieren die beiden Flügel auf die Pläne der Kaiserin, die Gilde zu reglementieren?
 - Welche Gerüchte über ihre Magie erreichen welchen Flügel, und was tut die ideologische Minderheit damit?
 - Würde ein Beweis der einen oder anderen Richtung die Gilde spalten, und wem nützte das?

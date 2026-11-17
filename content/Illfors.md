@@ -1,5 +1,7 @@
 ---
 tags: [eridune, ort]
+typ: ort
+gewicht: 70
 aliases: [Festung Illfors, Illfors-Fluss, Ilfors]
 aktualisiert: 2026-11-11
 ---
@@ -11,7 +13,7 @@ Jenseits des Illfors, im hohen Norden, mutieren Tiere durch Flux-Aerosol besonde
 
 Am Fluss liegt außerdem das **Illforser Küstengut**.
 
-## Offene Fragen
+## Ungeklärt
 - Woher kommen die fluxmutierten Bestien im Norden? Liegt dort eine große Flux-Konzentration → [[Flux-Schwelle]]?
 - Wer hält die Festung heute — und wer jagt die mutierten Tiere, seit die Flusswächter abgewandert sind?
 - Was blieb vom Scharmützel: Schlachtfeld, Gräber, Zeugen?
