@@ -2,13 +2,10 @@
 tags: [eridune, uebersicht]
 typ: uebersicht
 gewicht: 95
-kurz: Willkommen in Eridune — Hauptstadt, Nordgrenze, Flux und die Macht der Häuser.
-aktualisiert: 2026-11-10
+aktualisiert: 2026-11-17
 ---
-# Eridune-Wiki
+# Eridune
 
-Das Destillat der Welt: alles, was am Tisch gilt — Orte, Personen, Häuser, Fraktionen und Mythen des Kontinents Eridune.
+Ein Kontinent am Rand des Ozeans, regiert von einer siebzehnjährigen Kaiserin und angetrieben von einem Stoff, den vor siebzig Jahren noch niemand kannte. Dieses Register sammelt, was am Tisch gilt: Orte, Personen, Häuser, Fraktionen und Mythen.
 
-[[Calveris]] · [[Illfors]] · [[Eridune-1]] · [[Eidenflux]] · [[Kindkaiserin]] · [[Kabinett]] · [[Centraleum]] · [[Erbeneid]] · [[Schlachthausviertel]] · [[Etienne Sarn]]
-
-Der vollständige Themenindex steht auf [[Eridune]].
+Wer neu ist, beginnt bei der [[Eridune|Übersicht]], in der Hauptstadt [[Calveris]] und beim [[Eidenflux]].

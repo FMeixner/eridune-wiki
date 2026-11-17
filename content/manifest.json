@@ -3,10 +3,9 @@
   "pages": [
     {
       "path": "index",
-      "title": "Eridune-Wiki",
+      "title": "Eridune",
       "type": "uebersicht",
-      "w": 95,
-      "kurz": "Willkommen in Eridune — Hauptstadt, Nordgrenze, Flux und die Macht der Häuser."
+      "w": 95
     },
     {
       "path": "Eridune",
